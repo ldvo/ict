@@ -1,0 +1,9 @@
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\bin\Proyecto.xml
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Luis\Google Drive\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
